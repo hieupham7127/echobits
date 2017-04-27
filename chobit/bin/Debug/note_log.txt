@@ -1,0 +1,4 @@
+Sun, 01 Jan 2017 19:14:34 GMT: The process cannot access the file 'C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\bin\Debug\stickynotes\allnotes.xml' because it is being used by another process.
+Sun, 01 Jan 2017 19:19:13 GMT: The process cannot access the file 'C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\bin\Debug\stickynotes\allnotes.xml' because it is being used by another process.
+Sun, 01 Jan 2017 19:23:20 GMT: The process cannot access the file 'C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\bin\Debug\stickynotes\allnotes.xml' because it is being used by another process.
+Sun, 01 Jan 2017 19:23:51 GMT: The process cannot access the file 'C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\bin\Debug\stickynotes\allnotes.xml' because it is being used by another process.

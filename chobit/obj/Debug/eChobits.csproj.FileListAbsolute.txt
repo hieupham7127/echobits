@@ -1,0 +1,86 @@
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\eChobits.exe.config
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\Interop.WMPLib.dll
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\eChobits.csproj.ResolveComReference.cache
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\eChobits.exe
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\eChobits.pdb
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\eChobits.csprojResolveAssemblyReference.cache
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\eChobits.mainform.resources
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\eChobits.SMTP.resources
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\eChobits.Properties.Resources.resources
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\eChobits.csproj.GenerateResource.Cache
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\eChobits.exe
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\eChobits.pdb
+E:\Programming Languages\C#\workspace\MyApp\eChobits\obj\Debug\Interop.SpeechLib.dll
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.dll.config
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.dll
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.MachineLearning.dll
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.Math.Core.dll
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.Math.dll
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.Statistics.dll
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.xml
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.MachineLearning.xml
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.Math.xml
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.Math.Core.xml
+E:\Programming Languages\C#\workspace\MyApp\eChobits\bin\Debug\Accord.Statistics.xml
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\eChobits.exe.config
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\Interop.SpeechLib.dll
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\Interop.WMPLib.dll
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.csproj.ResolveComReference.cache
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.exe
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.pdb
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.dll.config
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\eChobits.exe
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\eChobits.pdb
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.dll
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.MachineLearning.dll
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.Math.Core.dll
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.Math.dll
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.Statistics.dll
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.xml
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.MachineLearning.xml
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.Math.xml
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.Math.Core.xml
+E:\Programming Languages\C#\workspace\eChobits\eChobits\bin\Debug\Accord.Statistics.xml
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.csprojResolveAssemblyReference.cache
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.Gallery.resources
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.mainform.resources
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.SMTP.resources
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.Properties.Resources.resources
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.csproj.GenerateResource.Cache
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.ImageConversion.resources
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.Note.resources
+E:\Programming Languages\C#\workspace\eChobits\eChobits\obj\Debug\eChobits.Paint.resources
+E:\Programming\C#\eChobits\eChobits\bin\Debug\eChobits.exe.config
+E:\Programming\C#\eChobits\eChobits\obj\Debug\Interop.SpeechLib.dll
+E:\Programming\C#\eChobits\eChobits\obj\Debug\Interop.WMPLib.dll
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.csproj.ResolveComReference.cache
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.exe
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.pdb
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.dll.config
+E:\Programming\C#\eChobits\eChobits\bin\Debug\eChobits.exe
+E:\Programming\C#\eChobits\eChobits\bin\Debug\eChobits.pdb
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.dll
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.MachineLearning.dll
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.Math.Core.dll
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.Math.dll
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.Statistics.dll
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.xml
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.MachineLearning.xml
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.Math.xml
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.Math.Core.xml
+E:\Programming\C#\eChobits\eChobits\bin\Debug\Accord.Statistics.xml
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.csprojResolveAssemblyReference.cache
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.Gallery.resources
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.ImageConversion.resources
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.mainform.resources
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.Note.resources
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.Paint.resources
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.SMTP.resources
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.Properties.Resources.resources
+E:\Programming\C#\eChobits\eChobits\obj\Debug\eChobits.csproj.GenerateResource.Cache
+C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\bin\Debug\eChobits.exe.config
+C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\obj\Debug\Interop.SpeechLib.dll
+C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\obj\Debug\Interop.WMPLib.dll
+C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\obj\Debug\eChobits.csproj.ResolveComReference.cache
+C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\obj\Debug\eChobits.exe
+C:\Users\hieupham7127\Documents\GitHub\echobits\chobit\obj\Debug\eChobits.pdb
